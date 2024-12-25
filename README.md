@@ -1,15 +1,13 @@
-### PakWheels Imported Cars DataScrap 
- I have successfully scrapped the imported cars data from PakWheels using Python for my project at SMIU University. <br />
-The Pak wheels Imported Card Data Scrap project successfully collected and
-analyzed data related to imported cards, providing valuable insights for the
-company. <br />
+# PakWheels Imported Cars DataScrap 
+I have successfully scraped imported cars data from PakWheels using Python for my project at SMIU University. This project aimed at collecting and analyzing data related to imported cars, providing valuable insights for the company.
 
-### Project Details: 
-The main objectives of the project were as follows: <br />
-- Data Scraping
-- Data Processing
-- Data Analysis
-- Reporting
+## Project Overview
+The key objectives of this project included:
+
+- Data Scraping: Extracting relevant car data from the PakWheels website.
+- Data Processing: Cleaning and organizing the data for analysis.
+- Data Analysis: Performing insightful analysis to uncover trends and patterns.
+- Reporting: Generating detailed reports based on the collected data for decision-making.
 
 ### Built With These Skills
 
